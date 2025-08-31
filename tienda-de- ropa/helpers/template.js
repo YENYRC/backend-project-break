@@ -1,0 +1,1 @@
+exports.getNavBar = () => '<nav><a href="/products">Productos</a></nav>';
